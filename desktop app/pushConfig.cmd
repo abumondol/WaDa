@@ -1,0 +1,1 @@
+adb  push  config.json   /sdcard/wada/config
