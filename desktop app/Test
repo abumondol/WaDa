@@ -1,0 +1,1 @@
+{"sensors":[{"rate":"25","name":"Accelerometers","id":"1"},{"rate":"-1","name":"Gyroscope","id":"4"},{"rate":"Sensor","name":"Light","id":"5"}],"name":"Test","tags":[{"name":"Participant","options":["Lahiru","Abu","Jack"]}]}
